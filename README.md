@@ -2,8 +2,7 @@
 
 🧠 Computer Science Student at NIT Warangal
 
-# 💫 About Me:
-<!--🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>-->🌱 I’m currently learning python<br>
+
 # 💫 About Me:
 <br>🌱 I’m currently learning python
 
@@ -18,11 +17,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=555shivv&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=555shivv&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=555shivv&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=555shivv&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
